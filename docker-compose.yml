@@ -1,7 +1,7 @@
 version: '3.1'
 
 services:
-  otusdb:
+  otusdb_sergei_baranov:
     image: mysql:8.0.15
     environment:
       - MYSQL_ROOT_PASSWORD=12345
